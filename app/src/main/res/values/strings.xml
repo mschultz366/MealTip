@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MealTip</string>
+    <string name="app_title">Meal Tipper</string>
+    <string name="image_desc">Skrimp</string>
+    <string name="text_entry">Meal Cost</string>
+    <string-array name="txt_group">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+    <string name="button">Calculate Tip</string>
+    <string name="percent_sign">%</string>
+</resources>
